@@ -1,0 +1,17 @@
+.character-bio{
+	border: blue 2px solid;
+	margin-bottom: 10px;
+
+}
+
+.portrait{
+	max-height: 160px;
+	overflow: hidden;
+/*	background-image: url(../img/cora.jpg);
+	background-repeat: no-repeat;
+	background-size: contain; */
+}
+
+.indication-title{
+	background-color: green;
+}
