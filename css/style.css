@@ -1,17 +1,25 @@
+.indication-title{
+	background-color: green;
+}
+
 .character-bio{
 	border: blue 2px solid;
 	margin-bottom: 10px;
+	list-style: none;
+}
 
+.selected{
+	border: yellow 2px solid;
+	margin-bottom: 10px;
+	list-style: none;
 }
 
 .portrait{
 	max-height: 160px;
 	overflow: hidden;
-/*	background-image: url(../img/cora.jpg);
-	background-repeat: no-repeat;
-	background-size: contain; */
 }
 
-.indication-title{
-	background-color: green;
+.team{
+	border: green 2px solid;
+	margin-bottom: 10px;
 }
